@@ -1,0 +1,17 @@
+{
+  "name": "koa-gnu-terry-pratchett",
+  "version": "1.0.0",
+  "description": "Koa.js middleware to commemorate Terry Pratchett",
+  "main": "index.js",
+  "repository": "git@github.com:Mchl/koa-gnu-terry-pratchett.git",
+  "author": "Michal Jarosz <mail@michaljarosz.biz>",
+  "license": "Unlicense",
+  "keywords": [
+    "koa",
+    "middleware",
+    "terry",
+    "pratchett",
+    "clacks",
+    "overhead"
+  ]
+}
