@@ -5,5 +5,13 @@
   "main": "index.js",
   "repository": "git@github.com:Mchl/koa-gnu-terry-pratchett.git",
   "author": "Michal Jarosz <mail@michaljarosz.biz>",
-  "license": "Unlicense"
+  "license": "Unlicense",
+  "keywords": [
+    "koa",
+    "middleware",
+    "terry",
+    "pratchett",
+    "clacks",
+    "overhead"
+  ]
 }
