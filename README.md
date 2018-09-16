@@ -1,4 +1,4 @@
-# koa-gnu-terry-pratchett [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+# koa-gnu-terry-pratchett [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) [![NPMjs](https://img.shields.io/npm/v/koa-gnu-terry-pratchett.svg?label=koa-gnu-terry-pratchett)](https://www.npmjs.com/package/koa-gnu-terry-pratchett)
 Koa.js middleware to [commemorate Terry Pratchett](http://www.gnuterrypratchett.com/)
 
 ## What does it do
